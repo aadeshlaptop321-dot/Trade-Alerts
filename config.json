@@ -1,0 +1,8 @@
+{
+  "buffer_pct": 0.1,
+  "min_gap_min": 30,
+  "daily_cap": 6,
+  "morning_brief": true,
+  "instruments": ["NIFTY 50", "BANK NIFTY", "SENSEX", "GOLD (COMEX)", "SILVER (COMEX)", "CRUDE OIL (WTI)", "NATURAL GAS"],
+  "triggers": {"prev_day": true, "opening_range": true, "supertrend": true, "custom": true}
+}
