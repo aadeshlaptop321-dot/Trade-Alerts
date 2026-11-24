@@ -1,5 +1,7 @@
 {
- "count": {},
+ "count": {
+  "CRUDE OIL (WTI)|2026-11-24": 2
+ },
  "fail": {
   "BANK NIFTY": 0,
   "CRUDE OIL (WTI)": 0,
@@ -11,9 +13,15 @@
  },
  "morning": "2026-11-24",
  "sent": {
+  "CRUDE OIL (WTI)|pdl|dn": "2026-11-24T09:20:00",
+  "CRUDE OIL (WTI)|st|dn": "2026-11-24T09:20:00",
   "CRUDE OIL (WTI)|st|up": "2026-11-23T23:15:00",
   "GOLD (COMEX)|st|dn": "2026-11-23T23:20:00",
   "SILVER (COMEX)|st|dn": "2026-11-23T23:20:00"
  },
- "stale": {}
+ "stale": {
+  "BANK NIFTY": "2026-11-24",
+  "NIFTY 50": "2026-11-24",
+  "SENSEX": "2026-11-24"
+ }
 }
