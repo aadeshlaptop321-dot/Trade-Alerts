@@ -2,7 +2,7 @@
  "count": {
   "CRUDE OIL (WTI)|2026-11-24": 6,
   "NATURAL GAS|2026-11-24": 4,
-  "SILVER (COMEX)|2026-11-24": 2
+  "SILVER (COMEX)|2026-11-24": 3
  },
  "fail": {
   "BANK NIFTY": 0,
@@ -21,7 +21,7 @@
   "GOLD (COMEX)|st|dn": "2026-11-23T23:20:00",
   "NATURAL GAS|st|dn": "2026-11-24T11:40:00",
   "NATURAL GAS|st|up": "2026-11-24T12:40:00",
-  "SILVER (COMEX)|pdl|dn": "2026-11-24T14:00:00",
+  "SILVER (COMEX)|pdl|dn": "2026-11-24T14:35:00",
   "SILVER (COMEX)|st|dn": "2026-11-23T23:20:00",
   "SILVER (COMEX)|st|up": "2026-11-24T10:20:00"
  },
