@@ -1,6 +1,6 @@
 {
  "count": {
-  "CRUDE OIL (WTI)|2026-11-24": 3,
+  "CRUDE OIL (WTI)|2026-11-24": 4,
   "NATURAL GAS|2026-11-24": 3,
   "SILVER (COMEX)|2026-11-24": 1
  },
@@ -15,7 +15,7 @@
  },
  "morning": "2026-11-24",
  "sent": {
-  "CRUDE OIL (WTI)|pdl|dn": "2026-11-24T09:20:00",
+  "CRUDE OIL (WTI)|pdl|dn": "2026-11-24T12:40:00",
   "CRUDE OIL (WTI)|st|dn": "2026-11-24T09:20:00",
   "CRUDE OIL (WTI)|st|up": "2026-11-24T11:30:00",
   "GOLD (COMEX)|st|dn": "2026-11-23T23:20:00",
