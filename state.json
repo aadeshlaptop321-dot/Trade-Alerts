@@ -1,5 +1,7 @@
 {
- "count": {},
+ "count": {
+  "GOLD (COMEX)|2026-11-25": 1
+ },
  "fail": {
   "BANK NIFTY": 0,
   "CRUDE OIL (WTI)": 0,
@@ -15,7 +17,7 @@
   "CRUDE OIL (WTI)|st|dn": "2026-11-24T13:55:00",
   "CRUDE OIL (WTI)|st|up": "2026-11-24T11:30:00",
   "GOLD (COMEX)|pdl|dn": "2026-11-24T20:50:00",
-  "GOLD (COMEX)|st|dn": "2026-11-24T18:50:00",
+  "GOLD (COMEX)|st|dn": "2026-11-25T09:35:00",
   "GOLD (COMEX)|st|up": "2026-11-24T18:15:00",
   "NATURAL GAS|st|dn": "2026-11-24T16:10:00",
   "NATURAL GAS|st|up": "2026-11-24T17:35:00",
