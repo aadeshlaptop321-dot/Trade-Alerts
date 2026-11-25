@@ -1,7 +1,7 @@
 {
  "count": {
   "BANK NIFTY|2026-11-25": 2,
-  "CRUDE OIL (WTI)|2026-11-25": 5,
+  "CRUDE OIL (WTI)|2026-11-25": 6,
   "GOLD (COMEX)|2026-11-25": 4,
   "NATURAL GAS|2026-11-25": 3,
   "NIFTY 50|2026-11-25": 3,
@@ -21,7 +21,7 @@
  "sent": {
   "BANK NIFTY|orb|up": "2026-11-25T11:45:00",
   "BANK NIFTY|st|dn": "2026-11-25T12:35:00",
-  "CRUDE OIL (WTI)|pdh|up": "2026-11-25T15:05:00",
+  "CRUDE OIL (WTI)|pdh|up": "2026-11-25T15:45:00",
   "CRUDE OIL (WTI)|pdl|dn": "2026-11-24T13:35:00",
   "CRUDE OIL (WTI)|st|dn": "2026-11-25T12:05:00",
   "CRUDE OIL (WTI)|st|up": "2026-11-25T14:15:00",
