@@ -1,10 +1,10 @@
 {
  "count": {
-  "BANK NIFTY|2026-11-25": 1,
+  "BANK NIFTY|2026-11-25": 2,
   "CRUDE OIL (WTI)|2026-11-25": 3,
   "GOLD (COMEX)|2026-11-25": 2,
   "NATURAL GAS|2026-11-25": 2,
-  "NIFTY 50|2026-11-25": 1,
+  "NIFTY 50|2026-11-25": 2,
   "SENSEX|2026-11-25": 1,
   "SILVER (COMEX)|2026-11-25": 1
  },
@@ -20,6 +20,7 @@
  "morning": "2026-11-25",
  "sent": {
   "BANK NIFTY|orb|up": "2026-11-25T11:45:00",
+  "BANK NIFTY|st|dn": "2026-11-25T12:35:00",
   "CRUDE OIL (WTI)|pdl|dn": "2026-11-24T13:35:00",
   "CRUDE OIL (WTI)|st|dn": "2026-11-25T12:05:00",
   "CRUDE OIL (WTI)|st|up": "2026-11-25T11:25:00",
@@ -29,6 +30,7 @@
   "NATURAL GAS|st|dn": "2026-11-25T10:50:00",
   "NATURAL GAS|st|up": "2026-11-25T10:25:00",
   "NIFTY 50|orb|up": "2026-11-25T10:40:00",
+  "NIFTY 50|st|dn": "2026-11-25T12:35:00",
   "SENSEX|orb|up": "2026-11-25T10:40:00",
   "SILVER (COMEX)|pdl|dn": "2026-11-25T11:00:00",
   "SILVER (COMEX)|st|dn": "2026-11-23T23:20:00",
