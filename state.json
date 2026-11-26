@@ -1,7 +1,8 @@
 {
  "count": {
   "GOLD (COMEX)|2026-11-26": 1,
-  "NATURAL GAS|2026-11-26": 1
+  "NATURAL GAS|2026-11-26": 2,
+  "NIFTY 50|2026-11-26": 1
  },
  "fail": {
   "BANK NIFTY": 0,
@@ -23,9 +24,9 @@
   "GOLD (COMEX)|pdl|dn": "2026-11-25T16:55:00",
   "GOLD (COMEX)|st|dn": "2026-11-25T17:00:00",
   "GOLD (COMEX)|st|up": "2026-11-26T10:05:00",
-  "NATURAL GAS|st|dn": "2026-11-25T18:05:00",
+  "NATURAL GAS|st|dn": "2026-11-26T10:25:00",
   "NATURAL GAS|st|up": "2026-11-26T10:15:00",
-  "NIFTY 50|orb|up": "2026-11-25T10:40:00",
+  "NIFTY 50|orb|up": "2026-11-26T10:30:00",
   "NIFTY 50|st|dn": "2026-11-25T12:35:00",
   "NIFTY 50|st|up": "2026-11-25T14:55:00",
   "SENSEX|orb|up": "2026-11-25T12:40:00",
