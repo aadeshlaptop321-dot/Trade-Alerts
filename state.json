@@ -1,11 +1,5 @@
 {
- "count": {
-  "BANK NIFTY|2026-11-26": 4,
-  "GOLD (COMEX)|2026-11-26": 1,
-  "NATURAL GAS|2026-11-26": 2,
-  "NIFTY 50|2026-11-26": 5,
-  "SENSEX|2026-11-26": 6
- },
+ "count": {},
  "fail": {
   "BANK NIFTY": 0,
   "CRUDE OIL (WTI)": 0,
