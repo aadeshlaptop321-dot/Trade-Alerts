@@ -1,5 +1,6 @@
 {
  "count": {
+  "BANK NIFTY|2026-11-27": 1,
   "NIFTY 50|2026-11-27": 2,
   "SENSEX|2026-11-27": 1
  },
@@ -16,7 +17,7 @@
  "sent": {
   "BANK NIFTY|orb|dn": "2026-11-26T13:55:00",
   "BANK NIFTY|orb|up": "2026-11-26T10:55:00",
-  "BANK NIFTY|st|dn": "2026-11-26T13:15:00",
+  "BANK NIFTY|st|dn": "2026-11-27T10:55:00",
   "BANK NIFTY|st|up": "2026-11-26T14:45:00",
   "CRUDE OIL (WTI)|pdh|up": "2026-11-25T15:45:00",
   "CRUDE OIL (WTI)|pdl|dn": "2026-11-24T13:35:00",
