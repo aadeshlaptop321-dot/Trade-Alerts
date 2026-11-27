@@ -1,5 +1,7 @@
 {
- "count": {},
+ "count": {
+  "NIFTY 50|2026-11-27": 1
+ },
  "fail": {
   "BANK NIFTY": 0,
   "CRUDE OIL (WTI)": 0,
@@ -25,7 +27,7 @@
   "NATURAL GAS|st|dn": "2026-11-26T10:25:00",
   "NATURAL GAS|st|up": "2026-11-26T10:15:00",
   "NIFTY 50|orb|up": "2026-11-26T14:50:00",
-  "NIFTY 50|st|dn": "2026-11-26T13:15:00",
+  "NIFTY 50|st|dn": "2026-11-27T09:30:00",
   "NIFTY 50|st|up": "2026-11-26T14:45:00",
   "SENSEX|orb|up": "2026-11-26T14:50:00",
   "SENSEX|st|dn": "2026-11-26T13:15:00",
