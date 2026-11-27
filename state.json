@@ -1,6 +1,6 @@
 {
  "count": {
-  "BANK NIFTY|2026-11-27": 5,
+  "BANK NIFTY|2026-11-27": 6,
   "NIFTY 50|2026-11-27": 4,
   "SENSEX|2026-11-27": 3
  },
@@ -15,7 +15,7 @@
  },
  "morning": "2026-11-27",
  "sent": {
-  "BANK NIFTY|orb|dn": "2026-11-27T13:00:00",
+  "BANK NIFTY|orb|dn": "2026-11-27T13:45:00",
   "BANK NIFTY|orb|up": "2026-11-26T10:55:00",
   "BANK NIFTY|pdl|dn": "2026-11-27T13:00:00",
   "BANK NIFTY|st|dn": "2026-11-27T10:55:00",
