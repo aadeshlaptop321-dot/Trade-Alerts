@@ -2,7 +2,7 @@
  "count": {
   "BANK NIFTY|2026-11-27": 3,
   "NIFTY 50|2026-11-27": 4,
-  "SENSEX|2026-11-27": 2
+  "SENSEX|2026-11-27": 3
  },
  "fail": {
   "BANK NIFTY": 0,
@@ -36,7 +36,7 @@
   "NIFTY 50|st|up": "2026-11-26T14:45:00",
   "SENSEX|orb|dn": "2026-11-27T10:35:00",
   "SENSEX|orb|up": "2026-11-26T14:50:00",
-  "SENSEX|pdl|dn": "2026-11-27T11:25:00",
+  "SENSEX|pdl|dn": "2026-11-27T12:25:00",
   "SENSEX|st|dn": "2026-11-26T13:15:00",
   "SENSEX|st|up": "2026-11-26T14:40:00",
   "SILVER (COMEX)|pdl|dn": "2026-11-25T17:00:00",
